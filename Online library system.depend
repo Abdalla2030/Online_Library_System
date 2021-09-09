@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1631163943 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\online library system\book.cpp
+	"Book.h"
+
+1631162732 c:\users\dreamonline\onedrive - cairo university - students\desktop\online library system\book.h
+	<cstring>
+	<iostream>
+	<string.h>
+	"User.h"
+
+1631162732 c:\users\dreamonline\onedrive - cairo university - students\desktop\online library system\user.h
+	<iostream>
+	<cstring>
+	<string.h>
+
+1631162732 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\online library system\booklist.cpp
+	"BookList.h"
+	<stdlib.h>
+
+1631162732 c:\users\dreamonline\onedrive - cairo university - students\desktop\online library system\booklist.h
+	<cstring>
+	<iostream>
+	<string.h>
+	"Book.h"
+
+1631162732 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\online library system\user.cpp
+	"User.h"
+
+1631162732 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\online library system\userlist.cpp
+	"UserList.h"
+
+1631162732 c:\users\dreamonline\onedrive - cairo university - students\desktop\online library system\userlist.h
+	<cstring>
+	<iostream>
+	<string.h>
+	"User.h"
+
+1631211167 source:c:\users\dreamonline\onedrive - cairo university - students\desktop\online library system\main.cpp
+	"User.h"
+	"Book.h"
+	"UserList.h"
+	"BookList.h"
+	<iostream>
+	<string>
+
